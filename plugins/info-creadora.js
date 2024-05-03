@@ -74,12 +74,12 @@ conn.reply(m.chat, 'Mario.js', fkontak,  m)
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => imagen1[1]) 
 let teksbio = ` 𝙵𝙴𝙽𝙸𝚇-𝙱𝙾𝚃💖
-*Wa.me/573136855110*
+*Wa.me/51995490187*
 𝙵𝙴𝙽𝙸𝚇-𝙱𝙾𝚃 💖🐈
-*wa.me/593993684821*
+*wa.me/51907779949*
 *---------------------*
 *CENTER 𝙵𝙴𝙽𝙸𝚇*
-*centergatabot@gmail.com*
+**
 𝙵𝙴𝙽𝙸𝚇-𝙱𝙾𝚃 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
 *${asistencia}*`
   let teks = ' '
