@@ -1,9 +1,9 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
 let cafirexostxt = `
-_Optimice la implementación de *GataBot* mediante la integración en un servicio de alojamiento de alto rendimiento._
+_Optimice la implementación de *FenixBot* mediante la integración en un servicio de alojamiento de alto rendimiento._
 
-*🐈 Compatible con GataBot*
-Aprovecha la compatibilidad y comienza usar GataBot en servidores de alto rendimiento. El Staff de GataBot y Cafirexos hacen posible que puedas ejecutar las funciones que tanto te gusta usar sintiendo una experiencia fluida y de calidad.
+*🐈 Compatible con FenixBot*
+Aprovecha la compatibilidad y comienza usar GataBot en servidores de alto rendimiento. El Staff de FenixBot y Cafirexos hacen posible que puedas ejecutar las funciones que tanto te gusta usar sintiendo una experiencia fluida y de calidad.
 
 🔵 \`\`\`Información del Host\`\`\`
 
